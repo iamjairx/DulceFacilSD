@@ -1,0 +1,453 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj",
+        "projectName": "DulceFacilSD.APIWeb",
+        "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj",
+        "packagesPath": "C:\\Users\\jnoboa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.APIWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jnoboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion.DTO\\DulceFacilSD.Aplicacion.DTO.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion.DTO\\DulceFacilSD.Aplicacion.DTO.csproj"
+              },
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj"
+              },
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj"
+              },
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion.DTO\\DulceFacilSD.Aplicacion.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion.DTO\\DulceFacilSD.Aplicacion.DTO.csproj",
+        "projectName": "DulceFacilSD.Aplicacion.DTO",
+        "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion.DTO\\DulceFacilSD.Aplicacion.DTO.csproj",
+        "packagesPath": "C:\\Users\\jnoboa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jnoboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj",
+        "projectName": "DulceFacilSD.Aplicacion",
+        "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\jnoboa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jnoboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj"
+              },
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj"
+              },
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj",
+        "projectName": "DulceFacilSD.Dominio.Modelo",
+        "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj",
+        "packagesPath": "C:\\Users\\jnoboa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jnoboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj",
+        "projectName": "DulceFacilSD.Dominio.Servicio",
+        "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj",
+        "packagesPath": "C:\\Users\\jnoboa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jnoboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj",
+        "projectName": "DulceFacilSD.Infraestructura.AccesoDatos",
+        "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\jnoboa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jnoboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj"
+              },
+              "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj": {
+                "projectPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\DulceFacilSD.Dominio.Servicio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
