@@ -3,16 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\izonasgeograficasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\izonasgeograficasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\zonasgeograficasrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\zonasgeograficasrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\iusuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\iusuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\usuariosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\usuariosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\rutasentregarepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\rutasentregarepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\irutasentregarepositotorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\irutasentregarepositotorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\rolesrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\rolesrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\irolesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\irolesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\repartidoresrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\repartidoresrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\irepartidoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\irepartidoresrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\puntosventarepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\puntosventarepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\ipuntosventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\ipuntosventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\ipedidosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\ipedidosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\pedidosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\pedidosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\detallepedidosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\detallepedidosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\idetallepedidosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\idetallepedidosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\iclientesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\iclientesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\clientesrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\clientesrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\categoriasproductorepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\categoriasproductorepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\categoriasclienterepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\categoriasclienterepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\repositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\repositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\repositorio\\productosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\repositorio\\productosrepositorioimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\icategoriasproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\icategoriasproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\icategoriasclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\icategoriasclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\iproductosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\iproductosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\abstracciones\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\abstracciones\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\entidades\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\entidades\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.dominio.modelo\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A651D92-F53B-4F01-B03F-5C1EB42F9282}|DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj|solutionrelative:dulcefacilsd.dominio.modelo\\entidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\dataefcore\\dulcefacildistribucioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\dataefcore\\dulcefacildistribucioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\dataefcore\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\dataefcore\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\dulcefacilsd.infraestructura.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\dulcefacilsd.infraestructura.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.infraestructura.accesodatos\\dataefcore\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F04C2DB-4E86-4678-AA32-A0756E0EE5CE}|DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj|solutionrelative:dulcefacilsd.infraestructura.accesodatos\\dataefcore\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA6F9DDA-21C7-47D5-AAB5-A4EE6295996E}|DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj|c:\\users\\jnoboa\\documents\\6to semestre\\desarrollo de software\\dulcefacilsd\\dulcefacilsd.apiweb\\dulcefacilsd.apiweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -54,24 +166,392 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZonasGeograficasRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ZonasGeograficasRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ZonasGeograficasRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ZonasGeograficasRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ZonasGeograficasRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:31:56.214Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IZonasGeograficasRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IZonasGeograficasRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IZonasGeograficasRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IZonasGeograficasRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IZonasGeograficasRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:30:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\UsuariosRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\UsuariosRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\UsuariosRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\UsuariosRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:29:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuariosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IUsuariosRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IUsuariosRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IUsuariosRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IUsuariosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:29:04.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RutasEntregaRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RutasEntregaRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RutasEntregaRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RutasEntregaRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RutasEntregaRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:28:04.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRutasEntregaRepositotorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRutasEntregaRepositotorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRutasEntregaRepositotorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRutasEntregaRepositotorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRutasEntregaRepositotorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:27:23.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolesRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RolesRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RolesRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RolesRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RolesRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:26:02.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRolesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRolesRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRolesRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRolesRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRolesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:25:06.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepartidoresRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepartidoresRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepartidoresRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepartidoresRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepartidoresRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:23:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepartidoresRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepartidoresRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepartidoresRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepartidoresRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepartidoresRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:23:14.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PuntosVentaRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PuntosVentaRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PuntosVentaRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PuntosVentaRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PuntosVentaRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:21:59.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPuntosVentaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPuntosVentaRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPuntosVentaRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPuntosVentaRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPuntosVentaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:20:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidosRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PedidosRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PedidosRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PedidosRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\PedidosRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:19:43.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPedidosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPedidosRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPedidosRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPedidosRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IPedidosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:18:31.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetallePedidosRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\DetallePedidosRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\DetallePedidosRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\DetallePedidosRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\DetallePedidosRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:17:03.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDetallePedidosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IDetallePedidosRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IDetallePedidosRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IDetallePedidosRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IDetallePedidosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:16:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientesRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ClientesRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ClientesRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ClientesRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ClientesRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:13:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IClientesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IClientesRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IClientesRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IClientesRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IClientesRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:12:41.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriasProductoRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasProductoRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasProductoRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasProductoRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasProductoRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:09:19.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriasClienteRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasClienteRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasClienteRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasClienteRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\CategoriasClienteRepositorioImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:03:23.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\RepositorioImpl.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwEsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:43:54.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductosRepositorioImpl.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ProductosRepositorioImpl.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ProductosRepositorioImpl.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ProductosRepositorioImpl.cs",
+              "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\Repositorio\\ProductosRepositorioImpl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:38:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICategoriasProductoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasProductoRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasProductoRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasProductoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:07:52.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoriasClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasClienteRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\ICategoriasClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T05:01:27.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IProductosRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IProductosRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IProductosRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IProductosRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:34:58.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Abstracciones\\IRepositorio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:19:41.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Entidades\\Pedidos.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Entidades\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Entidades\\Pedidos.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Entidades\\Pedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:03:07.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Entidades\\Productos.cs",
+              "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\Entidades\\Productos.cs",
+              "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\Entidades\\Productos.cs",
+              "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\Entidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:01:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "DulcefacilDistribucionContext.cs",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DataEFCore\\DulcefacilDistribucionContext.cs",
               "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\DataEFCore\\DulcefacilDistribucionContext.cs",
               "ToolTip": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DataEFCore\\DulcefacilDistribucionContext.cs",
               "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\DataEFCore\\DulcefacilDistribucionContext.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T03:40:03.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 30,
               "Title": "efpt.config.json",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DataEFCore\\efpt.config.json",
               "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\DataEFCore\\efpt.config.json",
@@ -79,16 +559,11 @@
               "RelativeToolTip": "DulceFacilSD.Infraestructura.AccesoDatos\\DataEFCore\\efpt.config.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-17T03:38:26.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-06-17T03:38:26.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 31,
               "Title": "DulceFacilSD.APIWeb.csproj",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj",
               "RelativeDocumentMoniker": "DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj",
@@ -96,12 +571,11 @@
               "RelativeToolTip": "DulceFacilSD.APIWeb\\DulceFacilSD.APIWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T23:59:03.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T23:59:03.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 29,
               "Title": "DulceFacilSD.Infraestructura.AccesoDatos.csproj",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj",
               "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.AccesoDatos\\DulceFacilSD.Infraestructura.AccesoDatos.csproj",
@@ -114,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 33,
               "Title": "DulceFacilSD.Dominio.Modelo.csproj",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj",
               "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj",
@@ -122,12 +596,11 @@
               "RelativeToolTip": "DulceFacilSD.Dominio.Modelo\\DulceFacilSD.Dominio.Modelo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T23:55:00.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T23:55:00.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 32,
               "Title": "DulceFacilSD.Aplicacion.csproj",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj",
               "RelativeDocumentMoniker": "DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj",
@@ -135,12 +608,11 @@
               "RelativeToolTip": "DulceFacilSD.Aplicacion\\DulceFacilSD.Aplicacion.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-09T23:54:06.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T23:54:06.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 34,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.ServicioExterno\\Class1.cs",
               "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.ServicioExterno\\Class1.cs",
@@ -152,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 35,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.ServicioEmail\\Class1.cs",
               "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.ServicioEmail\\Class1.cs",
@@ -164,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 36,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Infraestructura.CrossCuting\\Class1.cs",
               "RelativeDocumentMoniker": "DulceFacilSD.Infraestructura.CrossCuting\\Class1.cs",
@@ -176,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 37,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Dominio.Servicio\\Class1.cs",
               "RelativeDocumentMoniker": "DulceFacilSD.Dominio.Servicio\\Class1.cs",
@@ -188,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 38,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jnoboa\\Documents\\6TO SEMESTRE\\DESARROLLO DE SOFTWARE\\DulceFacilSD\\DulceFacilSD.Aplicacion.DTO\\Class1.cs",
               "RelativeDocumentMoniker": "DulceFacilSD.Aplicacion.DTO\\Class1.cs",

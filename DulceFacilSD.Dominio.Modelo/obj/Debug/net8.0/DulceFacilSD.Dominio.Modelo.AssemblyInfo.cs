@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DulceFacilSD.Dominio.Modelo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64550501bb1b225a3e6704eaf4dbab2300dd2a59")]
 [assembly: System.Reflection.AssemblyProductAttribute("DulceFacilSD.Dominio.Modelo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DulceFacilSD.Dominio.Modelo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
